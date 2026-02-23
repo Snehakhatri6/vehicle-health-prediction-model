@@ -66,4 +66,3 @@ The goal is to enable **predictive maintenance** — identifying potential issue
 
 ---
 
-## 📂 Repository Structure
